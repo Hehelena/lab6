@@ -1,0 +1,6 @@
+﻿  lab6.cpp
+c:\lab6\lab6\lab6.cpp(7): warning C4101: b: неиспользованная локальная переменная
+c:\lab6\lab6\lab6.cpp(7): warning C4101: y: неиспользованная локальная переменная
+c:\lab6\lab6\lab6.cpp(7): warning C4101: c: неиспользованная локальная переменная
+c:\lab6\lab6\lab6.cpp(7): warning C4101: x: неиспользованная локальная переменная
+  lab6.vcxproj -> C:\lab6\Debug\lab6.exe
